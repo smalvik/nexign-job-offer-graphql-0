@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/smalvik/nexign-job-offer-graphql-0/issues"
   },
-  "homepage": "https://github.com/smalvik/nexign-job-offer-graphql-0#readme"
+  "homepage": "https://github.com/smalvik/nexign-job-offer-graphql-0#readme",
+  "dependencies": {
+    "@apollo/server": "^4.9.0",
+    "esm": "^3.2.25",
+    "graphql": "^16.7.1"
+  }
 }
